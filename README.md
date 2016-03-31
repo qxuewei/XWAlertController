@@ -1,5 +1,5 @@
 # XWAlertController
-一个对于UIAlertViewController的封装类,支持自定义 
+一个对于UIAlertController的封装类,支持自定义 
 
 //初始化->
 
